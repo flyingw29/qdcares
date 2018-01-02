@@ -6,5 +6,4 @@
         <activity android:name=".activity.DefineCameraActivity" />
         <activity android:name=".activity.CameraPhotoActivity" />
     </application>
-
 </manifest>
