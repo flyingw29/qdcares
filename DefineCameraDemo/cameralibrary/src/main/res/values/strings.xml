@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cameralibrary</string>
+    <string name="tv_open_camera">拍照</string>
+    <string name="dialog_content_positive">确定</string>
+    <string name="dialog_content_cancel">取消</string>
+    <string name="tv_bind_save">保存</string>
+</resources>
