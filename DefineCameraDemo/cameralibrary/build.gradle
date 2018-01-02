@@ -1,9 +1,8 @@
 apply plugin: 'com.android.library'
+group='com.github.prince329'
 
 android {
     compileSdkVersion 25
-
-
 
     defaultConfig {
         minSdkVersion 17
